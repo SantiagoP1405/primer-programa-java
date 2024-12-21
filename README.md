@@ -17,7 +17,7 @@ Los conceptos practicados utilizando Java fueron:
 
 * Impresión en consola
 
-*Estructura básica de un programa en Java:
+* Estructura básica de un programa en Java:
 
 * Uso del método main como punto de entrada del programa.
 
@@ -36,4 +36,4 @@ Los conceptos practicados utilizando Java fueron:
 * Manejo básico de tipo de datos
 
 * Bucles while y for
-* 
+  
